@@ -1,16 +1,8 @@
 # cp866converter
 
-A new Flutter project.
+A cp866 converter Flutter project.
+Use: charset: ^1.0.1
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+CP866 (the name of the most common modern standard) or "Alternative Coding" (the name of the original version), DOS Cyrillic is a code page based on CP437, where all specific Western European characters in the second half are replaced by Cyrillic, leaving pseudographic characters unchanged. Thus, it does not spoil the look of programs that use text boxes, and also provides the use of Cyrillic characters in them.
